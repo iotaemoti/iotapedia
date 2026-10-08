@@ -1,2 +1,2 @@
-# iotapedia
+# Iotapedia
 Independent Markdown Docuverse
